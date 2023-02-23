@@ -21,7 +21,7 @@ package-lock.json
 pnpm-lock.yaml
 *bak
 .vscode
-
+.git
 
 # visual studio code
 .history
